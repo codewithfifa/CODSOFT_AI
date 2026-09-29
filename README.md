@@ -42,5 +42,5 @@ This repository contains all the completed tasks for the **Artificial Intelligen
 ---
 
 ## 👤 Author
-* **Intern:** [Your Name]
+* **Intern:** [Afifah Mahvish]
 * **Internship Provider:** [CodSoft](https://www.codsoft.in/)
